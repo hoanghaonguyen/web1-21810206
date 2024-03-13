@@ -107,6 +107,10 @@ h1 {
     background-color: var(--web1-pink);
 }
 
+#about-us h4 {
+    color: black;
+}
+
 #formSignUp {
     border-style: dashed !important;
     border-color: rgba(0, 0, 0, 0.5) !important;
